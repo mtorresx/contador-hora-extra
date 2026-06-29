@@ -4,7 +4,7 @@ Um app simples e prático para registrar hora extra e atestados direto no Google
 
 ## Por que criei isso?
 
-Estava procurando uma solução rápida para conehcido controlar suas horas extras sem precisar ficar anotando em papel ou digitando tudo manualmente numa planilha. A ideia era algo bem intuitivo: abrir pelo celular, preencher início e fim, e pronto. Dados vão direto pro Sheets.
+Estava procurando uma solução rápida para que um conhecido pudesse controlar suas horas extras sem precisar ficar anotando em papel ou digitando tudo manualmente numa planilha. A ideia era algo bem intuitivo: abrir pelo celular, preencher início e fim, e pronto. Dados vão direto pro Sheets.
 
 Virou também um projeto de estudo de integração com Google Sheets, Streamlit e deploy em produção.
 
