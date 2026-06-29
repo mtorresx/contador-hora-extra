@@ -36,7 +36,6 @@ Todos os registros vão pro Google Sheets em tempo real. Fácil auditar, fácil 
 1. Clone o repo:
 ```bash
 git clone https://github.com/mtorresx/contador-hora-extra.git
-cd contador-hora-extra
 ```
 
 2. Instale as dependências:
